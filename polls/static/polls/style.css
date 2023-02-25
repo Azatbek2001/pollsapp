@@ -1,0 +1,6 @@
+li a {
+    color: hsl(147, 100%, 50%);
+}
+body {
+    background: white url("images/background.png") no-repeat;
+}
